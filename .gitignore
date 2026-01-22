@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Virtual Envrieonments
+venv/
+env/
+.venv/
+
+# PyTorch model files
+*.pth
+*.pt
+
+# Dataset
+*.mp4
+*.avi
+
+# Logs / checkpoints
+*.log
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# JetBrains IDE
+.idea/
